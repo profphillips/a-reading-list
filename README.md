@@ -1,3 +1,13 @@
+# Book Reading List React App
+
+This project uses Google Firebase 9 to save data online and Google Auth to allow each user to have their own data. I hope to use it as a starting point for future projects.
+
+This project is based on The Net Ninja's (Shaun Pelling) excellent Udemy course [Build Web Apps with React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/). My version of the project is updated with both Router 6 and Firebase 9.
+
+The project source is at [https://github.com/profphillips/a-reading-list](https://github.com/profphillips/a-reading-list).
+
+Be sure to update firebase/config.js to use your own credentials.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
